@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "WimPyDD\nA Python NREFT framework for dark matter–nucleus direct detection. Used in the LZ analysis and by the COSINE-100 collaboration.\nWebpage · Documentation\n\n\nWimPyC\nAn extension module of WimPyDD for dark matter capture in celestial bodies (Sun, Earth and others), for single-scattering capture.\nWebpage · Documentation",
+    "crumbs": [
+      "Software"
+    ]
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Full and up-to-date list on ORCID: 0000-0002-3468-5306 and INSPIRE-HEP.\n\nA. Ibarra, M. Reichard, G. Tomar, Celestial probes of dark matter electromagnetic interactions, submitted to JCAP, arXiv:2608.27957 (2026)\nS. Scopel, G. Tomar, Probing Sub-GeV Dark Matter with the Migdal Effect at JUNO, submitted to Phys. Rev. D, arXiv:2608.18609 (2026)\nS. Kang, S. Scopel, G. Tomar, WimPyC: an extension module of WimPyDD for the calculation of WIMP capture in celestial bodies, arXiv:2510.21185 (2025)\nA. Ibarra, M. Reichard, G. Tomar, Probing Dark Matter Electromagnetic Properties in Direct Detection Experiments, arXiv:2408.15760 (2024)\nG. Tomar, S. Kang, S. Scopel, Low-mass extension of direct detection bounds on WIMP-quark and WIMP-gluon effective interactions using the Migdal effect, Astropart. Phys. 150 (2023) 102851, arXiv:2210.00199\nA. Brenner, G. Herrera, A. Ibarra, S. Kang, S. Scopel, G. Tomar, Complementarity of experiments in probing the non-relativistic effective theory of dark matter-nucleon interactions, JCAP 06 (2022) 026, arXiv:2203.04210\nI. Jeong, S. Kang, S. Scopel, G. Tomar, WimPyDD: an object-oriented Python code for the calculation of WIMP direct detection signals, Comput. Phys. Commun. 276 (2022) 108342, arXiv:2106.06207\nP. Gondolo, I. Jeong, S. Kang, S. Scopel, G. Tomar, The phenomenology of nuclear scattering for a WIMP of arbitrary spin, arXiv:2102.09778 (2021)\nS. Kang, S. Scopel, G. Tomar, J.-H. Yoon, On the sensitivity of present direct detection experiments to WIMP-quark and WIMP-gluon effective interactions: A systematic assessment and new model-independent approaches, Astropart. Phys. 114 (2020) 80–91, arXiv:1810.00607\nCOSINE-100 Collaboration, Sogang Phenomenology Group (G. Adhikari et al., incl. G. Tomar), COSINE-100 and DAMA/LIBRA-phase2 in WIMP effective models, JCAP 1906 (2019) 048, arXiv:1904.00128\nS. Kang, S. Scopel, G. Tomar, Probing DAMA/LIBRA in the full parameter space of WIMP effective models of inelastic scattering, Phys. Rev. D 99 (2019) 103019, arXiv:1902.09121\nS. Kang, S. Scopel, G. Tomar, J.-H. Yoon, Proton-philic spin-dependent inelastic dark matter as a viable explanation of DAMA/LIBRA-phase2, Phys. Rev. D 99 (2019) 023017, arXiv:1810.09674\nS. Kang, S. Scopel, G. Tomar, J.-H. Yoon, Present and projected sensitivities of Dark Matter direct detection experiments to effective WIMP-nucleus couplings, Astropart. Phys. 109 (2019) 50–68, arXiv:1805.06113\nS. Kang, S. Scopel, G. Tomar, J.-H. Yoon, DAMA/LIBRA-phase2 in WIMP effective models, JCAP 1807 (2018) 016, arXiv:1804.07528",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "A full CV (PDF) is available here: Download CV\n\n\nPositions\n\nPrincipal Researcher, Quantum Space-Time Research Center, Sogang University, Seoul (2026–present)\nFaculty, School of Basic Sciences and Humanities, APJ Abdul Kalam Technological University, Thiruvananthapuram (2024–2025)\nAssistant Professor (Grade-I), Department of Physics, IIT Patna (2023–2024)\nPostdoctoral Fellow, Chungnam National University, Daejeon (2022–2023)\nSFB1258 Postdoctoral Fellow, Technical University of Munich (2021–2022)\nTUFF Postdoctoral Fellow, Technical University of Munich (2020–2021)\nPostdoctoral Fellow, Sogang University, Seoul (2017–2020)\nPostdoctoral Fellow, Physical Research Laboratory, Ahmedabad (2015–2017)\n\n\n\nSelected awards\n\nSFB 1258 Postdoctoral Fellowship (2021)\nTUM Foundation Fellowship, TUFF (2020)\nCSIR-UGC NET (2010)\nGATE, 97th percentile (2010)\n\n\n\nEducation\n\nPh.D. in Physics, Physical Research Laboratory, Ahmedabad (2010–2015; degree awarded 2016)\nM.Sc. in Physics, University of Delhi (2007–2009)\nB.Sc. in Physics, Chemistry, Mathematics, MJP Rohilkhand University, Bareilly (2004–2007)",
+    "crumbs": [
+      "CV"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Gaurav Tomar",
+    "section": "",
+    "text": "Email  ·  ORCID  ·  INSPIRE  ·  GitHub  ·  Google Scholar  ·   ·   Medium\n\n\nFor questions, email me at tomarphysics@gmail.com",
+    "crumbs": [
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gaurav Tomar",
+    "section": "",
+    "text": "Research interests: Dark matter · Direct detection · NREFT · Celestial probes\nI am one the lead developers of WimPyDD and WimPyC, open-source tools for dark matter direct detection and celestial-body capture, adopted by the LZ and COSINE-100 collaborations. Currently, I am a Principal Researcher at the Center for Quantum SpaceTime (CQUeST), Sogang University, Seoul.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Gaurav Tomar",
+    "section": "Latest news",
+    "text": "Latest news\n\n\n1 Sep 2026 — The LZ collaboration announced its 248 keV nuclear-recoil event at TeVPA 2026 (Japan). Their analysis calculates the predicted dark matter recoil spectra with WimPyDD.\n28 Aug 2026 — New paper: Celestial probes of dark matter electromagnetic interactions, arXiv:2608.27957\n19 Aug 2026 — New paper: Probing Sub-GeV Dark Matter with the Migdal Effect at JUNO, arXiv:2608.18609\n8-16 March 2026 — Visiting TU Munich\n16-27 March 2026 — Attending “Fill the Gap” workshop at MIAPbP\n\n\n\nSee Research, Software, and Publications for more, or reach out via the Contact page.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research centers on model-independent NREFT dark matter phenomenology, applied across three connected fronts.\n\nDirect detection\nNon-relativistic effective field theory allows the full space of DM-nucleus interaction operators, beyond simple spin-independent / spin-dependent scattering, to be confronted with experimental data. This work underlies WimPyDD, which is used in the LZ analysis and by the COSINE-100 collaboration.\n\n\nCelestial-body capture\nDark matter captured by the Sun, Earth, or other bodies can annihilate and leave observable signals, from neutrinos to the heating of planets and stars. My work includes the code WimPyC for capture in celestial bodies, which I used to study dark matter with electromagnetic interactions. Neutrinos from the Sun and Earth, and the heating of Jupiter and white dwarfs, give the strongest limits in some parameter regions.\n\n\nSub-GeV dark matter\nLight dark matter below standard nuclear-recoil thresholds can still be probed through the Migdal effect, a small, calculable probability of electron ionization accompanying a nuclear recoil. I compute Migdal rates for direct-detection and neutrino-experiment targets, including the liquid scintillator of JUNO. This work also provides an analytical expression for the ionization probability of hydrogen.\n\nI am always open to new collaborations on these topics. Please get in touch via the Contact page.",
+    "crumbs": [
+      "Research"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+.contact-list a {
+  display: inline-block;
+  margin-right: 1.2rem;
+}
+
+a:any-link,
+.news a:any-link {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
